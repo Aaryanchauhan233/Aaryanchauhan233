@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryanchauhan233&label=Profile%20views&color=0e75b6&style=flat" alt="aaryanchauhan233" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website.**
+- 🔭 I’m currently working on **Python.**
 
 - 🌱 I’m currently learning **Django.**
 
